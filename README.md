@@ -1,2 +1,2 @@
 # Aplicacion-Locales-Phonegap
-Aplicación para móvil adaptada a PhoneGap
+Aplicación móvil con PhoneGap. Uso de tecnologías web.
